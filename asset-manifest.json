@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.js": "/Modal-Sidebar/static/js/main.c707f6a6.js",
+    "main.js": "/Modal-Sidebar/static/js/main.a86ffeb2.js",
     "static/media/logo.svg": "/Modal-Sidebar/static/media/logo.f13078c14d1831c5548008363223e259.svg",
     "index.html": "/Modal-Sidebar/index.html",
-    "main.c707f6a6.js.map": "/Modal-Sidebar/static/js/main.c707f6a6.js.map"
+    "main.a86ffeb2.js.map": "/Modal-Sidebar/static/js/main.a86ffeb2.js.map"
   },
   "entrypoints": [
-    "static/js/main.c707f6a6.js"
+    "static/js/main.a86ffeb2.js"
   ]
 }
